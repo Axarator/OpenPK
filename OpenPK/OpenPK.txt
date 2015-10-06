@@ -1,0 +1,7 @@
+"OpenPK"
+{
+	"base"		"base"
+	"title"		"Open Parkour"
+	"maps"		""
+	"menusystem"	"1"
+}
